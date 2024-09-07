@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Saranga 👋
 
-<!--
-**SarangaVP/SarangaVP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an electrical engineering undergraduate with a strong interest in machine learning and software development. 
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SarangaVP&show_icons=true&theme=radical)
+
+### Languages Used
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SarangaVP&layout=compact&theme=radical)
+
+## 📫 How to reach me
+- [LinkedIn](https://www.linkedin.com/in/saranga-malshan-56586b213/)
+- [Email](mailto:sarangavp36@gmail.com)
+
