@@ -5,6 +5,7 @@ I'm an Electrical Engineering Undergraduate with a strong interest in machine le
 ## 📫 How to reach me
 
 Email - [sarangavp36@gmail.com](mailto:sarangavp36@gmail.com)
+
 LinkedIn - [Saranga Malshan](https://www.linkedin.com/in/saranga-malshan-56586b213/)
 
 ### Languages Used
