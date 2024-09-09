@@ -12,3 +12,6 @@ LinkedIn - [Saranga Malshan](https://www.linkedin.com/in/saranga-malshan-56586b2
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SarangaVP&layout=compact&theme=radical)
 
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SarangaVP&show_icons=true&theme=radical)
+
