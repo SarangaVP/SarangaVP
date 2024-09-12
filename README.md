@@ -12,7 +12,7 @@ LinkedIn - [Saranga Malshan](https://www.linkedin.com/in/saranga-malshan-56586b2
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SarangaVP&layout=compact&theme=radical)
 
-### Languages and Tools
+## Languages and Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
