@@ -1,6 +1,6 @@
 # Hi, I'm Saranga 👋
 
-I'm an Electrical Engineering Undergraduate with a strong interest in machine learning and software development. 
+I’m an Electrical Engineering undergraduate passionate about Machine Learning and Software Development.
 
 ## 📫 How to reach me
 
