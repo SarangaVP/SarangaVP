@@ -8,9 +8,10 @@ Email - [sarangavp36@gmail.com](mailto:sarangavp36@gmail.com)
 
 LinkedIn - [Saranga Malshan](https://www.linkedin.com/in/saranga-malshan-56586b213/)
 
-### Languages Used
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SarangaVP&layout=compact&theme=radical)
+| Languages Used | Contributions |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SarangaVP&layout=compact&theme=radical) | ![Saranga's GitHub stats](https://github-readme-stats.vercel.app/api?username=SarangaVP&show_icons=true&theme=radical) |
 
 ## Languages and Tools
 
